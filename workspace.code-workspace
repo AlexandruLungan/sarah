@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\foundation-game-design-w-html5-javascript-master\\foundation-game-design-w-html5-javascript-master\\Code - Published\\chapter04\\Forest of Lyrica\\fonts"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "The Forest of Lyrica"
+  }
+}
